@@ -147,4 +147,4 @@ class TestUser:
             assert(recipe_1 in user.recipes)
             assert(recipe_2 in user.recipes)
 
-    
+            
